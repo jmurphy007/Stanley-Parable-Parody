@@ -14,8 +14,7 @@ Another group member, Chris, created a filing cabinet and a trash can model to u
 The last group member, Victor, only checked to see if our textures could be used on materials in a seperate Unreal Engine project.
 
 I managed to get my friend Adam to voice the lines in the script since he did a funny impression of the Narrator from the original game.
-
-Due to the large file size of the project, I had to heavily compress it. 
+ 
 To have the project work properly, please download each file into the same folder and extract all 7z files.
 If you have any trouble with downloading and opening the files, please let me know.
 
