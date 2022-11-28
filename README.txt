@@ -1,6 +1,6 @@
 Stanley Parable Parody
 
-This was some of the model assets I made for my final group project in my Unreal Engine class. The finished project will be in the Unreal Engine folder.
+This was finished project I made for my final group project in my Unreal Engine class.
 We were split into groups and could create whatever project we wanted for the assignment.
 My group and I decided we wanted to try to create a parody of the game The Stanley Parable, as it had be recently rereleased with extra content.
 
@@ -14,3 +14,14 @@ Another group member, Chris, created a filing cabinet and a trash can model to u
 The last group member, Victor, only checked to see if our textures could be used on materials in a seperate Unreal Engine project.
 
 I managed to get my friend Adam to voice the lines in the script since he did a funny impression of the Narrator from the original game.
+
+Due to the large file size of the project, I had to heavily compress it. 
+To have the project work properly, please download each file into the same folder and extract all 7z files.
+If you have any trouble with downloading and opening the files, please let me know.
+
+I also apologize, unfortunatly the text file listing where the textures came from is lost.
+My group and I did not make any of the textures and do not claim ownership of them.
+
+Demo Video Link: https://youtu.be/iVUmSBgjGqs
+
+Google Drive Link (just in case 7Zip does not work): https://drive.google.com/drive/folders/16gvBGDMmViHOPYDLbZjJc8ERa-Xs6yUZ?usp=sharing
