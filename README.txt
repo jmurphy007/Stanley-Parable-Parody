@@ -15,7 +15,7 @@ The last group member, Victor, only checked to see if our textures could be used
 
 I managed to get my friend Adam to voice the lines in the script since he did a funny impression of the Narrator from the original game.
  
-To have the project work properly, please download each file into the same folder and extract all 7z files.
+To have the project work properly, please download each file into the same folder.
 If you have any trouble with downloading and opening the files, please let me know.
 
 I also apologize, unfortunatly the text file listing where the textures came from is lost.
